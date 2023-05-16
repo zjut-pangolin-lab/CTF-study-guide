@@ -1,6 +1,12 @@
 
 # 学习资源
 
+## CTF WiKi
+
+[https://ctf-wiki.org/](https://ctf-wiki.org/)
+
+开源的CTF百科，目前还没有很完善
+
 ## 视频课程
 
 [https://www.bilibili.com/video/BV1St411P7Qa/](https://www.bilibili.com/video/BV1St411P7Qa/)
