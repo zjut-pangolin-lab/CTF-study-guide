@@ -7,7 +7,7 @@
 
 开源的CTF百科，目前还没有很完善
 
-## 视频课程
+## 教程
 
 [https://www.bilibili.com/video/BV1St411P7Qa/](https://www.bilibili.com/video/BV1St411P7Qa/)
 
@@ -16,6 +16,10 @@ b站米斯特安全系列教程
 [https://www.bilibili.com/video/BV1JZ4y1c7ro/](https://www.bilibili.com/video/BV1JZ4y1c7ro/)
 
 【小迪安全】web安全｜渗透测试｜网络安全（6个月线上培训全套）-2021
+
+[https://www.runoob.com/](https://www.runoob.com/)
+
+菜鸟教程，各种编程技术等教程（不专门针对CTF）
 
 ## 软件资源
 
@@ -35,15 +39,11 @@ MSDN资源站，适合下载微软家的产品
 
 克隆窝（破解软件下载站，需科学上网）
 
-## 信息、论坛、博客
+## 博客&论坛
 
 [https://xz.aliyun.com/](https://xz.aliyun.com/)
 
 阿里云先知社区，对于想要CTF转实战（SRC/攻防）的同学比较有帮助，可以看一些帖子学习思路
-
-[https://www.su-sanha.cn/events/](https://www.su-sanha.cn/events/)
-
-ctf赛事集合
 
 [https://www.leavesongs.com/#](https://www.leavesongs.com/#)
 
@@ -71,6 +71,10 @@ Tide安全团队
 
 
 # 实战平台
+
+[https://www.su-sanha.cn/events/](https://www.su-sanha.cn/events/)
+
+CTF赛事集合
 
 [https://buuoj.cn/](https://buuoj.cn/)
 
