@@ -33,7 +33,7 @@ MSDN资源站，适合下载微软家的产品
 
 [https://www.kelongwo.com/](https://www.kelongwo.com/)
 
-克隆窝（破解软件下载站）
+克隆窝（破解软件下载站，需科学上网）
 
 ## 信息、论坛、博客
 
