@@ -31,6 +31,10 @@ MSDN资源站，适合下载微软家的产品
 
 吾爱破解（各种破解软件，破解工具的下载地点）
 
+[(https://www.kelongwo.com/](https://www.kelongwo.com/)
+
+克隆窝（破解软件下载站）
+
 ## 信息、论坛、博客
 
 [https://xz.aliyun.com/](https://xz.aliyun.com/)
