@@ -1,13 +1,21 @@
 
 # 学习资源
 
-## CTF WiKi
+## 知识库
 
 [https://ctf-wiki.org/](https://ctf-wiki.org/)
 
-开源的CTF百科，目前还没有很完善
+开源的CTF百科
 
-## 教程
+[https://www.amobaishi.com/](https://www.amobaishi.com/)
+
+PeiQi文库是一个面对网络安全从业者的知识库，涉及漏洞研究，代码审计，CTF夺旗，红蓝对抗等多个安全方向
+
+[https://www.runoob.com/](https://www.runoob.com/)
+
+菜鸟教程，各种编程技术等教程（不专门针对CTF）
+
+## 视频教程
 
 [https://www.bilibili.com/video/BV1St411P7Qa/](https://www.bilibili.com/video/BV1St411P7Qa/)
 
@@ -16,10 +24,6 @@ b站米斯特安全系列教程
 [https://www.bilibili.com/video/BV1JZ4y1c7ro/](https://www.bilibili.com/video/BV1JZ4y1c7ro/)
 
 【小迪安全】web安全｜渗透测试｜网络安全（6个月线上培训全套）-2021
-
-[https://www.runoob.com/](https://www.runoob.com/)
-
-菜鸟教程，各种编程技术等教程（不专门针对CTF）
 
 ## 软件资源
 
