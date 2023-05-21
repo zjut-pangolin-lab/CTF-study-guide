@@ -118,7 +118,7 @@ Pikachu漏洞靶场，个人认为是比DVWA更友好更现代化的漏洞利用
 
 语雀笔记，适合记录
 
-[https://typora.io/](https://typora.io/)
+[https://www.kelongwo.com/typora/](https://www.kelongwo.com/typora/)
 
 markdown笔记软件typora
 
