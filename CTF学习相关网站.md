@@ -120,9 +120,9 @@ Pikachu漏洞靶场，个人认为是比DVWA更友好更现代化的漏洞利用
 
 [https://www.kelongwo.com/typora/](https://www.kelongwo.com/typora/)
 
-轻便简洁的markdown笔记软件typora
+轻便简洁的markdown笔记软件typora，闭源付费，上面是破解版
 
 [https://obsidian.md/](https://obsidian.md/)
 
-强大复杂的markdown知识库软件obsidian
+强大复杂的markdown知识库软件obsidian，开源
 
