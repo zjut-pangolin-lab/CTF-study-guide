@@ -124,5 +124,5 @@ Pikachu漏洞靶场，个人认为是比DVWA更友好更现代化的漏洞利用
 
 [https://obsidian.md/](https://obsidian.md/)
 
-强大复杂的markdown笔记软件obsidian
+强大复杂的markdown知识库软件obsidian
 
