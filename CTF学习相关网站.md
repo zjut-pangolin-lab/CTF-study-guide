@@ -1,7 +1,7 @@
 
 # 学习资源
 
-## 知识库
+### 知识库
 
 [https://ctf-wiki.org/](https://ctf-wiki.org/)
 
@@ -15,7 +15,7 @@ PeiQi文库是一个面对网络安全从业者的知识库，涉及漏洞研究
 
 菜鸟教程，各种编程技术等教程（不专门针对CTF）
 
-## 视频教程
+### 视频教程
 
 [https://www.bilibili.com/video/BV1St411P7Qa/](https://www.bilibili.com/video/BV1St411P7Qa/)
 
@@ -25,7 +25,7 @@ b站米斯特安全系列教程
 
 【小迪安全】web安全｜渗透测试｜网络安全（6个月线上培训全套）-2021
 
-## 软件资源
+### 软件资源
 
 [https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)
 
@@ -43,7 +43,7 @@ MSDN资源站，适合下载微软家的产品
 
 克隆窝（破解软件下载站，需科学上网）
 
-## 博客&论坛
+### 博客&论坛
 
 [https://xz.aliyun.com/](https://xz.aliyun.com/)
 
@@ -73,7 +73,6 @@ Tide安全团队
 
 各种网络安全工具和情报分享
 
-
 # 实战平台
 
 [https://www.su-sanha.cn/events/](https://www.su-sanha.cn/events/)
@@ -83,6 +82,18 @@ CTF赛事集合
 [https://buuoj.cn/](https://buuoj.cn/)
 
 BUUCTF平台
+
+[https://www.nssctf.cn/](https://www.nssctf.cn/)
+
+NSSCTF平台，功能较为丰富
+
+[https://ctf.show/challenges](https://ctf.show/challenges)
+
+ctfshow，一个不错的CTF平台，可以付费获取比较系统化的套题
+
+[https://ctf.bugku.com/](https://ctf.bugku.com/)
+
+Bugku，一个不错的CTF+AWD平台
 
 [https://pwn.college/](https://pwn.college/)
 
@@ -100,13 +111,6 @@ PWN的学习平台（难度较高）
 
 Pikachu漏洞靶场，个人认为是比DVWA更友好更现代化的漏洞利用入门学习环境
 
-[https://ctf.show/challenges](https://ctf.show/challenges)
-
-ctfshow，一个不错的CTF平台，可以付费获取比较系统化的套题
-
-[https://ctf.bugku.com/](https://ctf.bugku.com/)
-
-Bugku，一个不错的CTF+AWD平台
 
 # 学习工具
 
